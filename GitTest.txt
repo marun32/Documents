@@ -1,0 +1,5 @@
+this is my test file using the git commands to do a test
+
+let see what the updates gonna do. we need to check multiple commands as well and see the difference what happens
+
+we can also find other options too
